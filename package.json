@@ -1,5 +1,5 @@
 {
-  "name": "@informaticahn/utils",
+  "name": "@mayanprincess/payment-utils",
   "version": "2.2.0",
   "description": "shared utility library for node and web ",
   "main": "dist/index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:informaticahn/utils.git"
+    "url": "git@github.com:mayanprincess/payment-utils.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
