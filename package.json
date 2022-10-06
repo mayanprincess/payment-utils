@@ -1,6 +1,6 @@
 {
   "name": "@mayanprincess/payment-utils",
-  "version": "2.2.0",
+  "version": "1.0.0",
   "description": "shared utility library for node and web ",
   "main": "dist/index.js",
   "scripts": {
